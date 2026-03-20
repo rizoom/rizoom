@@ -4,8 +4,6 @@
 
 🏢 Previously, software engineer at PayFit, a French unicorn.
 
-✨ Now, transitioning into web3 to contribute to open, transparent, and composable systems.
-
 🌱 With a strong focus on continuous learning and collaboration, I'm always eager to explore new technologies, concepts and paradigms.
 
 💬 Contact: [Twitter](https://twitter.com/rizoom_) / [LinkedIn](https://www.linkedin.com/in/thibautrizzi/)
